@@ -283,5 +283,6 @@ contingency_table=pd.crosstab(tips['sex'],tips['time'])
 
 
 # RESULT:
-      Thus the program to read the given data and perform Feature Scaling and Feature Selection process and
+
+ Thus the program to read the given data and perform Feature Scaling and Feature Selection process and
  save the data to a file is been executed.
